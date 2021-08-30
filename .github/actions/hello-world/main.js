@@ -9,4 +9,3 @@ console.log(`Hello ${secondGreeting}`);
 if (thirdGreeting) {
   console.log(`Hello ${thirdGreeting}`);
 }
-
